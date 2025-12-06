@@ -1,0 +1,45 @@
+body{
+  font-family: sans-serif;
+  margin: 0;
+  background-color: #D6B9FA;
+}
+
+/*Зроби цей сайт красивим 😉*/
+.logo{
+width:150px;
+height:100px;
+}
+ header{
+    display: flex;
+    justify-content: space-between;
+    padding:15px;
+align-items:center;
+}
+.Ratatouille{
+background: #ffcfff;
+background: linear-gradient(90deg,rgba(255, 207, 255, 1) 0%, rgba(213, 176, 255, 1) 35%, rgba(176, 230, 255, 1) 100%);
+  text-align: center;
+    
+}
+
+.gallery{
+display:flex;
+justify-content:space-between;
+padding:20px 30px;
+}
+.gallery img{
+max-width:300px;
+}
+
+
+
+.magic-button {
+  padding: 15px;
+ border-radius: 10px;
+ text-decoration: none;
+    color: white;
+ text-shadow: 24px;
+ font-weight: bold;
+background: #2A7B9B;
+background: linear-gradient(90deg,rgba(42, 123, 155, 1) 0%, rgba(82, 223, 255, 1) 50%, rgba(116, 83, 237, 1) 100%);
+}
